@@ -69,8 +69,9 @@ Right now, I'm focused on building full-stack projects while developing strong f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathvik%20Tumati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-tumati/)
-[![Instagram](https://img.shields.io/badge/Instagram-@sathvik20._05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sathvik20._.05/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sats.tumati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathvik%20Tumati-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sathvik-tumati/)
+[![Instagram](https://img.shields.io/badge/Instagram-@sathvik20._05-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sathvik20._.05/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sathvik-portfolio-mu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sats.tumati@gmail.com)
 
 </div>
